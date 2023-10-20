@@ -1,0 +1,1 @@
+# typescript-eslint-property-pollution
